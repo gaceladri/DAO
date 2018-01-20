@@ -6,8 +6,6 @@
 
 **Note: This repo is a work in progress, do not use it yet.**
 
-[Smart Contracts Good Practices by Consensys](https://consensys.github.io/smart-contract-best-practices/)
-
 [DAOplanet Slack Channel](https://join.slack.com/t/daoplanet/shared_invite/enQtMzAxOTE1NzIwOTMxLTU4MDliM2ZhNDg2OWVhZTU3ODlmYTgwNDI1YmFhOGI3M2EwMDc1ZGNhMWVjYWE3YmE2YmQwYmNmNDdiYTUxMzA)
 
 A Standard Decentralized Autonomous Organization (DAO) framework written in Solidity to run on the Ethereum blockchain. 
@@ -45,6 +43,8 @@ Note: Although the word "contract" is used in the DAO’s framework code, the te
 
 
 ## Solidity files
+
+[Smart Contracts Good Practices by Consensys](https://consensys.github.io/smart-contract-best-practices/)
 
 ### DAO.sol:
 Standard smart contract for any generated Decentralized Autonomous Organization (DAO) to automate organizational governance and decision-making.
