@@ -6,7 +6,7 @@
 
 Note: This repo is a work in progress, do not use it yet.
 
-[![Slack Channel]https://join.slack.com/t/daoplanet/shared_invite/enQtMzAxOTE1NzIwOTMxLTU4MDliM2ZhNDg2OWVhZTU3ODlmYTgwNDI1YmFhOGI3M2EwMDc1ZGNhMWVjYWE3YmE2YmQwYmNmNDdiYTUxMzA
+[Slack Channel](https://join.slack.com/t/daoplanet/shared_invite/enQtMzAxOTE1NzIwOTMxLTU4MDliM2ZhNDg2OWVhZTU3ODlmYTgwNDI1YmFhOGI3M2EwMDc1ZGNhMWVjYWE3YmE2YmQwYmNmNDdiYTUxMzA)
 
 A Standard Decentralized Autonomous Organization (DAO) framework written in Solidity to run on the Ethereum blockchain. 
 
