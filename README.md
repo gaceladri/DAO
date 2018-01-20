@@ -4,9 +4,9 @@
 
 ## What is it?
 
-Note: This repo is a work in progress, do not use it yet.
+**Note: This repo is a work in progress, do not use it yet.**
 
-For all solidity developers, [Smart Contracts Good Practices by Consensys](https://consensys.github.io/smart-contract-best-practices/)
+[Smart Contracts Good Practices by Consensys](https://consensys.github.io/smart-contract-best-practices/)
 
 [DAOplanet Slack Channel](https://join.slack.com/t/daoplanet/shared_invite/enQtMzAxOTE1NzIwOTMxLTU4MDliM2ZhNDg2OWVhZTU3ODlmYTgwNDI1YmFhOGI3M2EwMDc1ZGNhMWVjYWE3YmE2YmQwYmNmNDdiYTUxMzA)
 
